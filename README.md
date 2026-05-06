@@ -1,35 +1,44 @@
-# [Magento 2 Dynamic Blocks and Pages](https://magefan.com/magento-2-cms-display-rules-extension) by Magefan
+# [Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-cms-display-ruls_1.webp">
 
-[Magento 2 Dynamic Blocks and Pages](https://magefan.com/magento-2-cms-display-rules-extension) is a multifunctional solution for efficient CMS content management. Create the display rules and show blocks and pages based on customer group, date, weekday, time, and other conditions. 
+[Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages is an extension that enable your to display dynamic content in Magento Open Source. It allows you to schedule CMS blocks and pages display, target specific customer groups, lazy load CMS blocks and display content dynamicaly based on multiple cart and product attributes. 
 
 Leave manual block and page management in the past. Instead, use smart rules to schedule your content, keep it fresh, and target the right audience.
 
+> **Note:** Best for stores that need advanced, rule-based content management across CMS blocks and pages.
+
 Compatibility: Magento 2.3.0 - 2.4.x (CE, EE, ECE, B2B)
 
-<img  align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+<a href="https://magefan.com/blog/join-our-donations"><img align="right" width="120" height="70" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg"></a>
 
 <a href="https://magefan.com/magento-2-cms-display-rules-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a>
 
-## Useful Links
-  * [User Guide](https://magefan.com/magento-2-cms-display-rules-extension/documentation)
-  * [Change Log](https://magefan.com/magento-2-cms-display-rules-extension/change-log)
-  * [FAQs](https://magefan.com/magento-2-cms-display-rules-extension#pattr-faq)
+---
+TL;DR:
+Magefan Dynamic Blocks for Magento is a solution that lets you control where and when CMS blocks appear on your store. It allows you to schedule CMS blocks and pages and display them based on customer groups, products, categories, cart conditions, or user behavior.
 
-## 🇺🇦 Stand with Ukraine! [How can you help?](https://magefan.com/blog/join-our-donations)
+## Why Use Magento 2 Dynamic Blocks & Pages? 
+By default, Magento requires you to enable or disable CMS blocks and pages manually. It makes managing multiple promotions, banners, landing pages, and customer segments time-consuming.
 
-## Benefits
+Magefan Magento 2 Dynamic Blocks & Pages extension solves this by allowing you to display CMS content automatically based on rules and conditions. You just define when, where, and for whom content should appear, and the extension handles the rest.
 
-* [Automate CMS Blocks and Pages Display](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#automate-cms-blocks-and-pages-display)
-* [Set Up Display Conditions for CMS Content](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#set-up-display-conditions-for-cms-content)
-* [Display Customer Group-Specific Blocks and Pages](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#display-customer-group-specific-blocks-and-pages)
-* [Schedule CMS Pages and Blocks](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#schedule-cms-pages-and-blocks)
-* [Show Alternative Content](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#show-alternative-content)
-* [Display CMS Content for Specific Devices](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#display-cms-content-for-specific-devices)
-* [Keep Page Loading Up to Mark](https://github.com/magefan/magento-2-dynamic-blocks-and-pages#keep-page-loading-up-to-mark)
+* Store owners and developers choose this extension to:
+* Target the right audience with personalized blocks and pages
+* Schedule banners and landing pages for promotions without manual updates
+* Deliver device-specific content for mobile, tablet, or desktop users
 
-## Features
+Whether you're running seasonal promotions or customer-specific offers, this extension helps you turn static CMS content into automated marketing tools.
+
+## Features of Magento 2 Dynamic Blocks & Pages
+* Display CMS blocks and pages based on specific rules
+* Display unique content for different customer groups
+* Schedule CMS content to specific dates, days of the week, and time ranges
+* Show different CMS blocks for desktop, mobile, and tablet
+* Optimize CMS content with AJAX and lazy loading
+
+
+## Benefits of Dynamic Blocks and Pages in Magento
 ### Automate CMS Blocks and Pages Display
 CMS blocks and pages are an integral part of any Magento 2 store. Just think of sales banners or landing pages you create for specific cases. Yet, Magento’s default functionality is quite limited in this regard. So, you still need to enable and disable your blocks and pages manually.
 
@@ -104,6 +113,22 @@ The Magento 2 Dynamic Blocks and Pages extension has a few loading options such 
   <img width="853" height="425" src="https://cm.magefan.com/wysiwyg/products/lazy-load-cms-blocks-in-magento.png">
 </p>
 
+## Frequently asked questions about Magento 2 Dynamic Blocks and Pages
+
+### Can I schedule CMS blocks and pages in Magento 2?
+By default, you cannot dynamically schedule CMS blocks and pages in Magento 2. 
+However, with this Magento 2 Dynamic Blocks and Pages extension, you can schedule CMS content by date, time range, and day of the week to promotions and campaigns without manual updates.
+
+### Does this extension support cart attributes?
+Yes, the extension supports cart attributes, so you can display dynamic blocks based on the cart subtotal, payment/shipping method, products in the cart, etc.
+
+### Is it possible to display different CMS content for logged-in and guest users?
+Yes. The extension allows you to show different CMS blocks or pages based on customer groups and even devices. To create a personalized shopping experience.
+
+### How does this extension affect Magento performance?
+The Magento 2 Dynamic Blocks and Pages extension includes optimized loading options (AJAX and lazy loading), ensuring CMS blocks are delivered dynamically without slowing down your website.
+
+
 ## Video Reference
 
 How to create the CMS Display Rule? How would it be displayed on the storefront? Check [this video](https://www.youtube.com/watch?v=LRBUq4wiyc4) for the answers.
@@ -172,7 +197,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 
 ### Magento 2 SEO Extensions
 
-* [Magento SEO](https://magefan.com/magento-2-seo-extension)
+* [Magento 2 SEO Extension](https://magefan.com/magento-2-seo-extension)
 * [Magento 2 Rich Snippets](https://magefan.com/magento-2-rich-snippets)
 * [Magento 2 HTML Sitemap](https://magefan.com/magento-2-html-sitemap-extension)
 * [Magento 2 XML Sitemap](https://magefan.com/magento-2-xml-sitemap-extension)
