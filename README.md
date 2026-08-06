@@ -1,6 +1,6 @@
 # [Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages by Magefan
 
-<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/a1683bce6f623be8eb25d859e5ca6d6f/i/c/icon-cms-display-ruls-1.webp">
+<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-cms-display-ruls_1.webp">
 
 [Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages is an extension that enable your to display dynamic content in Magento Open Source. It allows you to schedule CMS blocks and pages display, target specific customer groups, lazy load CMS blocks and display content dynamicaly based on multiple cart and product attributes. 
 
