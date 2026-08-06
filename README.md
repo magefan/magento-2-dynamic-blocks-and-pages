@@ -1,6 +1,6 @@
 # [Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages by Magefan
 
-<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-cms-display-ruls_1.webp">
+<img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/a1683bce6f623be8eb25d859e5ca6d6f/i/c/icon-cms-display-ruls-1.webp">
 
 [Magento 2 Dynamic Blocks](https://magefan.com/magento-2-cms-display-rules-extension)  and Pages is an extension that enable your to display dynamic content in Magento Open Source. It allows you to schedule CMS blocks and pages display, target specific customer groups, lazy load CMS blocks and display content dynamicaly based on multiple cart and product attributes. 
 
@@ -216,6 +216,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 ### [Magento Speed Optimisation Extensions](https://magefan.com/magento-2-extensions/speed-optimization)
 
 * [Magento 2 Google Page Speed Optimizer](https://magefan.com/magento-2-google-page-speed-optimizer)
+* [Magento 2 AVIF Images](https://magefan.com/magento-2-avif-images)
 * [Magento 2 WebP Images](https://magefan.com/magento-2-webp-optimized-images)
 * [Magento Full Page Cache Extension](https://magefan.com/magento-2-full-page-cache-warmer)
 * [Magento 2 Lazy Load Images](https://magefan.com/magento-2-image-lazy-load-extension)
@@ -226,6 +227,7 @@ The code is licensed under [EULA](https://magefan.com/end-user-license-agreement
 * [Magento 2 Dynamic Category](https://magefan.com/magento-2-dynamic-categories)
 * [Magento 2 Size Chart](https://magefan.com/magento-2-size-chart)
 * [Magento 2 Security Extension](https://magefan.com/magento-2-security-extension)
+* [Magento 2 Bot Blocker](https://magefan.com/magento-2-bot-blocker)
 * [Magento 2 Admin Action Log](https://magefan.com/magento-2-admin-action-log)
 * [Magento Extended Product Grid](https://magefan.com/magento-2-product-grid-inline-editor)
 * [Magento 2 Product Tabs](https://magefan.com/magento-2/extensions/product-tabs)
